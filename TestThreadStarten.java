@@ -3,8 +3,9 @@ package threads;
 public class TestThreadStarten {
 
 	public static void main(String[] args) {
-	f1();
+//		f1();
 //		f2();
+		//f3();
 	}
 	
 	/*
